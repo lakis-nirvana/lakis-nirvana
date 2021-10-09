@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lakshmana Raja SAKTHIVEL
+- 🎓 I'm studying Msc in Data Analytics and Artificial Intelligence (Dual degree with Masters in management - Business Management)
 - 👀 I’m interested in Data Visualisation, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Machine Learning concepts.
 - 💞️ I’m looking to collaborate on projects related to Supervised machine learning and Deep Learning.
