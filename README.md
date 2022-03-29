@@ -28,7 +28,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSV      0 secs          ████████████████░░░░░░░░░   64.01 %
+Python   0 secs          █████████░░░░░░░░░░░░░░░░   35.99 %
 ```
 
 <!--END_SECTION:waka-->
