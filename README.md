@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-CSV      0 secs          ████████████████░░░░░░░░░   64.01 %
-Python   0 secs          █████████░░░░░░░░░░░░░░░░   35.99 %
+Python   1 hr 12 mins    █████████████████████████   99.86 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
